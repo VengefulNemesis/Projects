@@ -25,3 +25,5 @@ for password_index in range(number_of_passwords):
         password = password + random.choice(characters)
 
     print("Password {} generated: {}".format(password_index, randomize_password(password)))
+
+input("Press ENTER to exit") 
