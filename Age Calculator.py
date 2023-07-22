@@ -1,5 +1,5 @@
-print("Let see how long you have lived in days, minutes, and, seconds.")
-name = input("name: ")
+print("Let's see how long you have lived in days, minutes, and, seconds.")
+name = input("Name: ")
 print("Now enter your age")
 age = int(input("age: "))
 days = age * 365
