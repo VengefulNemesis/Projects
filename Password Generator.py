@@ -17,3 +17,5 @@ for password in range(number):
     for c in range(length):
         passwords += random.choice(chars)
         print(passwords)
+
+input("Press ENTER to exit")
